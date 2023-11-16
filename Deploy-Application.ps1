@@ -229,7 +229,7 @@ Try {
 		##*===============================================
 		[string]$installPhase = 'Post-Installation'
 
-		## TODO EXAMPLE WRITE INSTALLATION TATTOO IN REGISTRY
+		## TODO EXAMPLE WRITE INSTALLATION TATTOO IN REGISTR
         
 
         $CheckForReg = 'HKLM:SOFTWARE\Comcast Legal\DMS'
